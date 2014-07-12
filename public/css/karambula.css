@@ -1,0 +1,131 @@
+.jumbotron {
+    margin-bottom: 0px;
+    font-size: 27px;
+    background-color: #FFDE4D;
+    text-align: center;
+}
+body {
+    background-color: #E9E9E9;
+}
+.panel {
+    margin-bottom: 0px;
+}
+.panel-body {
+    background-color: #E9E9E9;
+    padding-bottom:40px;
+}
+.thumbnail {
+    border-color:#CCCCCC;
+    border-width: 3px;
+    background-color: #E9E9E9;
+    font-weight:bold;
+    margin: 10px;
+    padding-top: 15px;
+
+}
+.karambula-top {
+    padding:0px;
+}
+.top-1 {
+    background-color: #b7b7b7;
+    padding:10px;
+}
+.top-2 {
+    background-color: #cccccc;
+    padding:10px;
+}
+.top-3 {
+    background-color: #dbdbdb;
+    padding:10px;
+}
+a.thumbnail:hover,
+a.thumbnail:focus {
+    border-color: #FFDE4D;
+}
+
+#stickybar {
+    background-color: #FFDE4D;
+}
+#chart_div {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.button-flat-action {
+    background-color:#4d6eff;
+}
+.button-flat-action:hover {
+    color: #ffffff;
+    background-color:#4d6eff;
+}
+
+.button-flat-action:active {
+    color: #ffffff;
+    background-color:#4d6eff;
+}
+
+
+
+
+.button-flat-caution {
+    background-color:#ff4d6e;
+}
+.button-flat-caution:hover {
+    color: #ffffff;
+    background-color:#ff4d6e;
+}
+
+.button-flat-caution:active {
+    color: #ffffff;
+    background-color:#ff4d6e;
+}
+
+
+
+.bleft {
+    margin-right:1%;
+}
+
+.bmid {
+    margin-right:1%;
+    margin-left:1%;
+
+}
+
+.bright {
+    margin-left:1%;
+
+}
+.textbar {
+    background-color: #E9E9E9;
+    width:200px;
+}
+
+.textbar:focus {
+    outline:none;
+    box-shadow: 0 0 10px #ff4d6e;
+    border-color:#ff4d6e;
+
+}
+
+.white-popup {
+    position: relative;
+    background-color: #E9E9E9;
+    padding: 20px;
+    width: auto;
+    max-width: 700px;
+    margin: 20px auto;
+}
+
+.ui-autocomplete {
+    max-height: 250px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+    /* add padding for vertical scrollbar */
+    padding-right: 5px;
+}
+
+.ui-autocomplete li {
+    font-size: 16px;
+}
